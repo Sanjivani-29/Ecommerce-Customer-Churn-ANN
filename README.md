@@ -98,16 +98,3 @@ The model predicts customer churn and evaluates performance using:
 
 ---
 
-## 🚀 Future Improvements
-
-- Hyperparameter Tuning
-- Cross Validation
-- Feature Selection
-- Compare ANN with Random Forest and XGBoost
-- Deploy using Streamlit
-
----
-
-## 👩‍💻 Author
-
-Sanjivani Gaikwad
